@@ -113,7 +113,6 @@ Considerações éticas e legais:
 -t 3                # Define o numero de conexões simultaneas e acelerar o processo..
 ```
 <img src="Imagens/05-01.png" alt="medusa" style="max-width:100%;height:auto;" />
-   
 </br>
    
 🟢 VALIDAÇÃO  
@@ -130,7 +129,6 @@ Considerações éticas e legais:
 <img src="Imagens/06-02.png" alt="curl" style="max-width:100%;height:auto;" />
 </br>  
 <img src="Imagens/06.png" alt="curl" style="max-width:100%;height:auto;" />   
-  
 </br>
   
 🟢 IMPLEMENTAÇÃO          
@@ -139,7 +137,6 @@ Considerações éticas e legais:
 # Analisa os parametros de POST, necessários para montar a sintaxe do brute-force.
 ```
 <img src="Imagens/06-01.png" alt="http" style="max-width:100%;height:auto;" />  
-  
 </br>
   
 🟢 EXECUÇÃO   
@@ -154,7 +151,6 @@ Considerações éticas e legais:
  http://192.168.63.128/dvwa/login.php
 ```
 <img src="Imagens/06-03.png" alt="hydra" style="max-width:100%;height:auto;" />     
-  
 </br>
   
 🟢 VÁLIDAÇÃO  
@@ -174,7 +170,6 @@ Considerações éticas e legais:
 tee enum4_output63.128.txt  # Lê a entrada padrão e a grava simultaneamente na saída .txt.
 ```
 <img src="Imagens/07.png" alt="enum4linux" style="max-width:100%;height:auto;" />   
-  
 </br>  
 
 🟢 EXECUÇÃO      
@@ -186,7 +181,6 @@ tee enum4_output63.128.txt  # Lê a entrada padrão e a grava simultaneamente na
 smb -v                # Indica o serviço alvo em modo verbose.
 ```
 <img src="Imagens/07-02.png" alt="hydra" style="max-width:100%;height:auto;" />   
-  
 </br>
   
 🟢 VALIDAÇÃO      
